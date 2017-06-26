@@ -1,5 +1,5 @@
 All of the documents here are designed and written according to:
-- IEEE documents regulations and guide lines.
+- IEEE documents regulations and guidelines.
 - SAP regulations and guideline.
 - ISO 9001 standards.
 
